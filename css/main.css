@@ -1,0 +1,41 @@
+/* This is the main style sheet ----------------------------------*/
+
+body{
+	font-family: 'Fauna One', serif;
+	color: black;
+	font-size: 1em;
+	line-height: 1.5;
+	width: 90%; /* width 790px */
+	margin: 0 auto;
+	border: 3px double #b22222;
+	border-radius: 6px;
+	padding: 10px;
+}
+
+h1,h2,h3,h4{
+	font-family: 'Denk One', sans-serif;
+}
+
+ul li{
+	list-style-type: square;
+	font-size: 1em;
+	padding: .520833%; /* 5px */
+}
+
+table{
+	width: 100%;
+}
+
+table, td{
+	border: 2px solid #b22222;
+	font-size: 1em;
+	border-radius: 4px;
+	text-align: center;
+}
+
+td{
+	padding:3px;
+}
+
+
+
